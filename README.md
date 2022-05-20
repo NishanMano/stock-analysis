@@ -75,4 +75,4 @@ Refactored 2018 Runtime:
 
 ---
  
-The advantage of refactoring the code is that when working with larger sums of data this could be an even more significant delay which in turn means a loss of profit for large companies. It is always best practice to save the original code as you don't want to make life harder by making a mistake while refactoring and then losing track of the original code. 
+The advantage of refactoring the code is that when working with larger sums of data this could be an even more significant delay which in turn means a loss of profit for large companies. Every company strives to become more efficient regardless of the job type and the same applies with coding.  One of the worst outcomes of refactoring would be to edit the original code and forgetting to save it prior to altering it. It is always best practice to save any code you work with along the way. You don't want to make your life harder by making a mistake while refactoring and also have the original code not work as well which could lead to huge financial losses from a company standpoint. 
