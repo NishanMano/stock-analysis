@@ -18,15 +18,7 @@ This analysis was created with the purpose of refactoring the Microsoft Excel VB
 - Volume of the Stock
 
 
----
-
-### Code:
-
----
-
-*****************(INCLUDE 2 PICS) 
-
-I wanted to provide a screenshot of the original code as well as the refactored code. This will provide a direct review of how the refactoring has taken place. Arrays provide you with random access to elements, which allows you to access position elements more efficiently compared to data structures. For the refactored code I created 4 arrays which are called:
+Arrays provide you with random access to elements, which allows you to access position elements more efficiently compared to data structures. For the refactored code I created 4 arrays which are called: 
 
 - tickers(12) = This array intends to create a ticker symbol that will be used to identify each stock
 - tickerVolume(12) = This array intends to hold volume data
@@ -41,11 +33,11 @@ I wanted to provide a screenshot of the original code as well as the refactored 
 
 2017 Stock Analysis:
 
-![2017 Stock Analysis](https://ibb.co/JmZSq4B)
+![2017 Stock Analysis](https://i.ibb.co/5GZJkyM/2017-Stock-Analysis.png)
 
 2018 Stock Analysis:
 
-![2018 Stock Analysis](https://ibb.co/1Qq31hz)
+![2018 Stock Analysis](https://i.ibb.co/YQk6mY0/2018-Stock-Analysis.png)
 
 
 
@@ -62,19 +54,18 @@ Looking solely at the 2017 results, it would be very misleading for a potential 
 The initial runtime for my 2017 code took approximately 36.8828 seconds, however by refactoring I was able to bring the runtime down to approximately 0.4668 seconds. 
 
 Initial 2017 Runtime:
-![Initial 2017 Runtime](https://ibb.co/tZWRzth)
+![Initial 2017 Runtime](https://i.ibb.co/B4SkGxP/2017-Intial-Speed.png)
 
 Refactored 2017 Runtime: 
-![Refactored 2017 Runtime](https://ibb.co/sW7t9Jr)
+![Refactored 2017 Runtime](https://i.ibb.co/wctYhr1/2017-Refactored-Speed.png)
 
 The initial runtime for my 2018 code took approximately 17.8964 seconds, however by refactoring I was able to bring the runtime down to approximately 0.2519 seconds. 
 
 Initial 2018 Runtime:
-![Initial 2018 Runtime](https://ibb.co/tZWRzth)
+![Initial 2018 Runtime](https://i.ibb.co/B4SkGxP/2017-Intial-Speed.png)
 
 Refactored 2018 Runtime: 
-![Refactored 2018 Runtime](https://ibb.co/wSLs2sY)
-
+![Refactored 2018 Runtime](https://i.ibb.co/ZmbtqBc/2018-Refactored-Speed.png)
 ----
 
 ### Conclusion: 
