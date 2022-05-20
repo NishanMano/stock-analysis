@@ -30,6 +30,11 @@ Arrays provide you with random access to elements, which allows you to access po
 
 ---
 
+Looking solely at the 2017 results, it would be very misleading for a potential investor because 11 of the 12 stocks that we are analyzing are showing a positive return, and some stocks with close to a 200% increase. However, one year later in 2018 only 2 out of the 12 stocks were showing a positive return. Based on a two-year trend we can see that the following stocks return a positive return in both years. : 
+
+- ENPH 
+- RUN
+
 2017 Stock Analysis:
 
 ![2017 Stock Analysis](https://i.ibb.co/5GZJkyM/2017-Stock-Analysis.png)
@@ -37,13 +42,6 @@ Arrays provide you with random access to elements, which allows you to access po
 2018 Stock Analysis:
 
 ![2018 Stock Analysis](https://i.ibb.co/YQk6mY0/2018-Stock-Analysis.png)
-
-
-
-Looking solely at the 2017 results, it would be very misleading for a potential investor because 11 of the 12 stocks that we are analyzing are showing a positive return, and some stocks with close to a 200% increase. However, one year later in 2018 only 2 out of the 12 stocks were showing a positive return. Based on a two-year trend we can see that the following stocks return a positive return in both years. : 
-
-- ENPH 
-- RUN
 
 ---
 
