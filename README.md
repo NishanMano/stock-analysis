@@ -1,5 +1,4 @@
-# stock-analysis
-Green Stocks
+
 # Stock-Analysis Report
 ---
 
