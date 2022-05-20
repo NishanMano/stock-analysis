@@ -49,7 +49,7 @@ Looking solely at the 2017 results, it would be very misleading for a potential 
 
 ---
 
-The initial runtime for my 2017 code took approximately 36.8828 seconds, however by refactoring I was able to bring the runtime down to approximately 0.4668 seconds. 
+The initial runtime for my 2017 code took approximately 1.2422 seconds, however by refactoring I was able to bring the runtime down to approximately 0.1953 seconds. 
 
 Initial 2017 Runtime:
 
@@ -59,7 +59,7 @@ Refactored 2017 Runtime:
 
 ![Refactored 2017 Runtime](https://i.ibb.co/XXnhW49/VBA-Challenge-2017.png)
 
-The initial runtime for my 2018 code took approximately 17.8964 seconds, however by refactoring I was able to bring the runtime down to approximately 0.2519 seconds. 
+The initial runtime for my 2018 code took approximately 1.0896 seconds, however by refactoring I was able to bring the runtime down to approximately 0.1797 seconds. 
 
 Initial 2018 Runtime:
 
