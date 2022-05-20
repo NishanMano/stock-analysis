@@ -49,23 +49,29 @@ Looking solely at the 2017 results, it would be very misleading for a potential 
 ---
 
 ### Efficiency with Refactoring: 
+
 ---
 
 The initial runtime for my 2017 code took approximately 36.8828 seconds, however by refactoring I was able to bring the runtime down to approximately 0.4668 seconds. 
 
 Initial 2017 Runtime:
+
 ![Initial 2017 Runtime](https://i.ibb.co/B4SkGxP/2017-Intial-Speed.png)
 
 Refactored 2017 Runtime: 
+
 ![Refactored 2017 Runtime](https://i.ibb.co/wctYhr1/2017-Refactored-Speed.png)
 
 The initial runtime for my 2018 code took approximately 17.8964 seconds, however by refactoring I was able to bring the runtime down to approximately 0.2519 seconds. 
 
 Initial 2018 Runtime:
-![Initial 2018 Runtime](https://i.ibb.co/B4SkGxP/2017-Intial-Speed.png)
+
+![Initial 2018 Runtime](https://i.ibb.co/1rn646b/2018-Intial-Speed.png)
 
 Refactored 2018 Runtime: 
+
 ![Refactored 2018 Runtime](https://i.ibb.co/ZmbtqBc/2018-Refactored-Speed.png)
+
 ----
 
 ### Conclusion: 
